@@ -12,7 +12,7 @@
 	html {
 		background-color: #313a3d;
 		background-attachment: fixed,						fixed;
-		background-image: url("images/overlay.png"), url("https://unsplash.it/200/300?image=641");
+		background-image: url("images/overlay.png"), url("https://unsplash.it/1600/1000?image=641");
 		background-position: top left,					center center;
 		background-repeat: repeat,						none;
 		background-size: auto,						cover;
